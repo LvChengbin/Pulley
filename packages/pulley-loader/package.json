@@ -1,0 +1,8 @@
+{
+  "name": "@pulley/pulley-loader",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "author": "LvChengbin<lvchengbin59@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
